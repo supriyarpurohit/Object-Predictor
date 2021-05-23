@@ -2,7 +2,7 @@
  A Python application that uses camera input to train a Support Vector Machine (SVM) to respond to specific actions using neural networks to train a dataset
  
  #  Object Predictor
-###  A step towards Digital Vision !
+###  ~ A step towards Digital Vision !
 
 ## Inspiration:
 **-As recent advances in deep learning made tasks such as Image and speech recognition possible.
@@ -20,8 +20,8 @@ The idea of Scanning and image recognition is very fascinating.
 4. It will predict the object shown in the camera.
 
 
-## Challenges  ran into:
-*Since I'm new to Deep learning and Machine learning technology so initially it was very difficult for me to research and study about this technology. As I developed this project solo and there were no one to guide or support me wherever I got stuck so developing neural networks project became more challenging to me. But all we need is Determination and Consistency which can make everything possible.*
+## Challenges I ran into:
+*Since I'm new to Deep learning and Machine learning technology so initially it was very difficult for me to research and study about these technologies. As I developed this project solo and there were no one to guide or support me wherever I got stuck so developing neural networks project became more challenging to me. But all we need is Determination and Consistency which can make everything possible.*
   
 
 ## Accomplishments that I am proud of:
@@ -30,7 +30,7 @@ The idea of Scanning and image recognition is very fascinating.
 
 
 
-## What we learned:
+## What I learned:
 - How a Python application uses camera input to train a Support Vector Machine (SVM) to respond to specific actions using neural networks to train a dataset.
 - Also we learned an AI project that is a fully-functioning camera classifier by combining principles of computer vision with principles of neural networks.
 
