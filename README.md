@@ -5,9 +5,9 @@
 ###  A step towards Digital Vision !
 
 ## Inspiration:
-** As Recent advances in deep learning made tasks such as Image and speech recognition possible.
+**-As Recent advances in deep learning made tasks such as Image and speech recognition possible.
 The idea of Scanning and image recognition is very fascinating.        
-I wanted to dive deeper into the idea like google lens. **
+  -I wanted to dive deeper into the idea like google lens.**
 
 ## Objective:
 - I have built a deep neural network that can recognize images with an high accuracy of while explaining the techniques used throughout the process.
