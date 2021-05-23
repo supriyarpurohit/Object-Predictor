@@ -1,5 +1,5 @@
 # Object Predictor
-### A step towards Digital Vision !!!![image](https://user-images.githubusercontent.com/77918969/119249760-d06b4680-bbb8-11eb-9949-5b9e60a4d376.png)
+### A step towards Digital Vision !!!
 
 
 
@@ -22,17 +22,17 @@ OpenCV
 
 # Algorithm and Process Design
 
-Camera will continuously run in the background.
-A GUI window is used to capture images of objects to store at a specified location.
-It will then Create different classes for different objects.
-It will predict the object shown in the camera.
+1. Camera will continuously run in the background.
+2. A GUI window is used to capture images of objects to store at a specified location.
+3. It will then Create different classes for different objects.
+4. It will predict the object shown in the camera.
 ![image](https://user-images.githubusercontent.com/77918969/119234933-c06a4d00-bb4d-11eb-8d78-db0042203e21.png)
 
 
 # Motivation
 - Recent advances in deep learning made tasks such as Image and speech recognition possible.
-The idea of Scanning and image recognition is very fascinating.        
-I wanted to dive deeper into the idea like google lens.
+- The idea of Scanning and image recognition is very fascinating.        
+- I wanted to dive deeper into the idea like google lens.
 
 ![image](https://user-images.githubusercontent.com/77918969/119235053-38d10e00-bb4e-11eb-88c0-e93900561183.png)
 
@@ -52,13 +52,13 @@ I wanted to dive deeper into the idea like google lens.
 ![image](https://user-images.githubusercontent.com/77918969/119235101-70d85100-bb4e-11eb-8cda-9850c53074c1.png)
 
 # future works
-I wish to add  Text to speech voice assistant for visually Impaired people. 
+- I wish to add  Text to speech voice assistant for visually Impaired people. 
 - I would like to add Search results in accordance with the image for better exposure to the product.
 
 ![image](https://user-images.githubusercontent.com/77918969/119235165-d298bb00-bb4e-11eb-9e94-8d9ac9a3336c.png)
    
    
-   ## H2 Thank you
+   ##  Thank you
 
 
 
