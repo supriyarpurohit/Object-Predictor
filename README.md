@@ -1,11 +1,11 @@
 # Object-Predictor
  A Python application that uses camera input to train a Support Vector Machine (SVM) to respond to specific actions using neural networks to train a dataset
  
- # H1  Object Predictor
-### H3 A step towards Digital Vision !
+ #  Object Predictor
+###  A step towards Digital Vision !
 
 ## Inspiration:
-**As Recent advances in deep learning made tasks such as Image and speech recognition possible.
+** As Recent advances in deep learning made tasks such as Image and speech recognition possible.
 The idea of Scanning and image recognition is very fascinating.        
 I wanted to dive deeper into the idea like google lens. **
 
