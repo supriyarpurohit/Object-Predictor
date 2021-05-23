@@ -5,7 +5,7 @@
 ###  A step towards Digital Vision !
 
 ## Inspiration:
-**-As Recent advances in deep learning made tasks such as Image and speech recognition possible.
+**-As recent advances in deep learning made tasks such as Image and speech recognition possible.
 The idea of Scanning and image recognition is very fascinating.        
   -I wanted to dive deeper into the idea like google lens.**
 
@@ -21,7 +21,7 @@ The idea of Scanning and image recognition is very fascinating.
 
 
 ## Challenges  ran into:
-*Since I'm new to Deep learning and Machine learning technology so initially it was very difficult for me to research and study about this technology. As I developed this project solo and there were no one to guide or support me wherever I got stuck so developing neural networks project became more challenging to me. But all we need is Determination and Consistency which can make everything possible. *
+*Since I'm new to Deep learning and Machine learning technology so initially it was very difficult for me to research and study about this technology. As I developed this project solo and there were no one to guide or support me wherever I got stuck so developing neural networks project became more challenging to me. But all we need is Determination and Consistency which can make everything possible.*
   
 
 ## Accomplishments that I am proud of:
